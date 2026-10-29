@@ -1,0 +1,16 @@
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\bin\Debug\net10.0\ejer06 Termometro Triple.exe
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\bin\Debug\net10.0\ejer06 Termometro Triple.deps.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\bin\Debug\net10.0\ejer06 Termometro Triple.runtimeconfig.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\bin\Debug\net10.0\ejer06 Termometro Triple.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\bin\Debug\net10.0\ejer06 Termometro Triple.pdb
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.GeneratedMSBuildEditorConfig.editorconfig
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.AssemblyInfoInputs.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.AssemblyInfo.cs
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.csproj.CoreCompileInputs.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.sourcelink.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\refint\ejer06 Termometro Triple.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.pdb
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 Termometro Triple.genruntimeconfig.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ref\ejer06 Termometro Triple.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer06\ejer06 Termometro Triple\ejer06 Termometro Triple\obj\Debug\net10.0\ejer06 T.E90D261D.Up2Date
