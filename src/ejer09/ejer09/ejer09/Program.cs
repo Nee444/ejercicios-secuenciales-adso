@@ -1,0 +1,11 @@
+﻿double Subtotal, descuento, Iva, Total, Subtotalcondescuensto;
+Console.Write("escriba el valor del subtotal: ");
+Subtotal=Convert.ToDouble(Console.ReadLine());
+descuento = Subtotal * 0.10;
+Subtotalcondescuensto = Subtotal - descuento;
+Iva = Subtotalcondescuensto * 0.19;
+Total = Subtotalcondescuensto + Iva;
+Console.WriteLine(" el subtotal es: " + Subtotal);
+Console.WriteLine(" el subtotal con descuento: " + Subtotalcondescuensto);
+Console.WriteLine("el subtotal con Iva (19%) es: " + Iva);
+Console.WriteLine(" el total a paragar es: " + Total);
