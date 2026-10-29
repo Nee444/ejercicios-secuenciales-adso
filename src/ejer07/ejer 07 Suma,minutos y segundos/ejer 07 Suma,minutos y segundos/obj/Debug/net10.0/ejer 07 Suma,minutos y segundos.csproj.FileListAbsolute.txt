@@ -1,0 +1,16 @@
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\bin\Debug\net10.0\ejer 07 Suma,minutos y segundos.exe
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\bin\Debug\net10.0\ejer 07 Suma,minutos y segundos.deps.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\bin\Debug\net10.0\ejer 07 Suma,minutos y segundos.runtimeconfig.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\bin\Debug\net10.0\ejer 07 Suma,minutos y segundos.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\bin\Debug\net10.0\ejer 07 Suma,minutos y segundos.pdb
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.AssemblyInfoInputs.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.AssemblyInfo.cs
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.csproj.CoreCompileInputs.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.sourcelink.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\refint\ejer 07 Suma,minutos y segundos.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.pdb
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 Suma,minutos y segundos.genruntimeconfig.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ref\ejer 07 Suma,minutos y segundos.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer07\ejer 07 Suma,minutos y segundos\ejer 07 Suma,minutos y segundos\obj\Debug\net10.0\ejer 07 .0995AD5E.Up2Date
