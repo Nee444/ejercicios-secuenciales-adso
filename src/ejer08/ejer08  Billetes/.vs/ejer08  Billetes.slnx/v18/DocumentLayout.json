@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ejercicios-secuenciales\\ejercicios-secuenciales-adso\\src\\ejer08\\ejer08  Billetes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB908B2F-12DF-43B9-868A-5877C20089B2}|ejer08  Billetes\\ejer08  Billetes.csproj|c:\\ejercicios-secuenciales\\ejercicios-secuenciales-adso\\src\\ejer08\\ejer08  billetes\\ejer08  billetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB908B2F-12DF-43B9-868A-5877C20089B2}|ejer08  Billetes\\ejer08  Billetes.csproj|solutionrelative:ejer08  billetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ejercicios-secuenciales\\ejercicios-secuenciales-adso\\src\\ejer08\\ejer08  Billetes\\ejer08  Billetes\\Program.cs",
+              "RelativeDocumentMoniker": "ejer08  Billetes\\Program.cs",
+              "ToolTip": "C:\\ejercicios-secuenciales\\ejercicios-secuenciales-adso\\src\\ejer08\\ejer08  Billetes\\ejer08  Billetes\\Program.cs",
+              "RelativeToolTip": "ejer08  Billetes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T12:47:55.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
