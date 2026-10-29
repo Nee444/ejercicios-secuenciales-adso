@@ -1,0 +1,16 @@
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\bin\Debug\net10.0\ejer04.exe
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\bin\Debug\net10.0\ejer04.deps.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\bin\Debug\net10.0\ejer04.runtimeconfig.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\bin\Debug\net10.0\ejer04.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\bin\Debug\net10.0\ejer04.pdb
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.GeneratedMSBuildEditorConfig.editorconfig
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.AssemblyInfoInputs.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.AssemblyInfo.cs
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.csproj.CoreCompileInputs.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.sourcelink.json
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\refint\ejer04.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.pdb
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.genruntimeconfig.cache
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ref\ejer04.dll
+C:\ejercicios-secuenciales\ejercicios-secuenciales-adso\src\ejer04\ejer04\ejer04\obj\Debug\net10.0\ejer04.csproj.Up2Date
