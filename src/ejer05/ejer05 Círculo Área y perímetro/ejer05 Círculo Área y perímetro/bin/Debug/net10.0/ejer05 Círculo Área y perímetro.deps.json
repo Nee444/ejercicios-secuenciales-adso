@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ejer05 Círculo Área y perímetro/1.0.0": {
+        "runtime": {
+          "ejer05 Círculo Área y perímetro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer05 Círculo Área y perímetro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
